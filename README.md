@@ -4,4 +4,4 @@ I originally compiled this document for my current lab to share with incoming st
 
 I will try to update this document as I go along. 
 
-Main document is Resouces.md
+Main document is resources.md
